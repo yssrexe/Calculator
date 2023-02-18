@@ -52,3 +52,7 @@ form .display input {
 form input.equal{
     width: 145px;
 }
+
+.calculator form input:hover {
+    background-color: red;
+}
